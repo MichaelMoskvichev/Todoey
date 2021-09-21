@@ -1,5 +1,9 @@
 
 # Todoey
+The project was created on the course of Dr. Angela Yu.
+
+to do list app
+working with Realm and CocoaPods
 
 ### Screenshots
 ![Screenshot01](https://github.com/MichaelMoskvichev/Todoey/blob/main/Screenshot01.png?raw=true)
